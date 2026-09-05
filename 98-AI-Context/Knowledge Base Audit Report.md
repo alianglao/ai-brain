@@ -1,28 +1,26 @@
 # Knowledge Base Audit
 
-生成时间：2026-09-05T23:14
+生成时间：2026-09-06T00:00
 
-- Markdown：67
-- 重复组：0
+- Markdown：70
+- 重复组：1
 - 异常文件名：0
-- 空目录：4
-- 孤立笔记：28
+- 空目录：3
+- 孤立笔记：31
 - 断链：1
 
 ## 重复内容
-- 无
+- 00-Inbox\Downloaded\Codex这4个设置，能砍掉80%无效token浪费.md, 99-Archive\Originals\f8\f83ba4efbdc47b642263b652e972bcde64594fd3ea5baaa099f8da8a0d82a8df.md
 
 ## 异常文件名
 - 无
 
 ## 空目录
 - 01-Daily
-- 99-Archive
 - 00-Inbox\Attachments
 - 00-Inbox\Cleaned
 
 ## 孤立文件
-- 欢迎.md
 - 89-Prompts\Prompt Library Guide.md
 - 90-Templates\Daily Note Template.md
 - 90-Templates\Project Template.md
@@ -50,6 +48,10 @@
 - 98-AI-Context\Prompt Rules.md
 - 98-AI-Context\Web Clipper Guide.md
 - 98-AI-Context\Writing Style.md
+- Clippings\Build software better, together.md
+- 00-Inbox\Downloaded\Codex这4个设置，能砍掉80%无效token浪费.md
+- 04-Research\AI\Codex这4个设置，能砍掉80%无效token浪费.md
+- 99-Archive\Originals\f8\f83ba4efbdc47b642263b652e972bcde64594fd3ea5baaa099f8da8a0d82a8df.md
 
 ## 断链
-- 创建链接
+- 07-Topics/Codex Hub

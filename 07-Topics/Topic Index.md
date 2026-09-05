@@ -11,4 +11,4 @@
 - [[04-Research/教育/教育 Index|教育]]：0 篇
 - [[04-Research/历史/历史 Index|历史]]：0 篇
 - [[04-Research/建模/建模 Index|建模]]：0 篇
-- [[04-Research/AI/AI Index|AI]]：0 篇
+- [[04-Research/AI/AI Index|AI]]：1 篇

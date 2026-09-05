@@ -10,6 +10,10 @@ def frontmatter(text):
  return '',text
 def clean_one(src):
  raw=src.read_bytes(); digest=hashlib.sha256(raw).hexdigest(); text=raw.decode('utf-8-sig',errors='replace')
+ for base in [ROOT/'04-Research',ROOT/'00-Inbox/Cleaned']:
+  for old in base.rglob('*.md'):
+   if f'original_sha256: "{digest}"' in old.read_text(encoding='utf-8-sig',errors='replace'):
+    return old
  cfg=load(); low=' '+text.lower()+' '; scores={d:sum(low.count(k.lower()) for k in ks) for d,ks in cfg['keywords'].items()}
  best=max(scores,key=scores.get); confident=scores[best]>0 and list(scores.values()).count(scores[best])==1
  target=ROOT/'04-Research'/best/src.name if confident else ROOT/'00-Inbox/Cleaned'/src.name
@@ -27,7 +31,7 @@ def clean_one(src):
  target.parent.mkdir(parents=True,exist_ok=True); target.write_text('\n'.join(meta)+body.rstrip()+relation,encoding='utf-8')
  return target
 def clean():
- files=list((ROOT/'00-Inbox/Downloaded').glob('*.md')); out=[]
+ files=[p for p in (ROOT/'00-Inbox/Downloaded').glob('*.md') if p.name!='Downloaded.md']; out=[]
  for f in files: out.append(str(clean_one(f).relative_to(ROOT)))
  print(json.dumps({'processed':len(out),'outputs':out},ensure_ascii=False))
 def graph():
