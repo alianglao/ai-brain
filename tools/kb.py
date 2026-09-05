@@ -32,7 +32,12 @@ def clean_one(src):
  return target
 def clean():
  files=[p for p in (ROOT/'00-Inbox/Downloaded').glob('*.md') if p.name!='Downloaded.md']; out=[]
- for f in files: out.append(str(clean_one(f).relative_to(ROOT)))
+ processed=ROOT/'00-Inbox/Downloaded/Processed'; processed.mkdir(parents=True,exist_ok=True)
+ for f in files:
+  result=clean_one(f); out.append(str(result.relative_to(ROOT)))
+  destination=processed/f.name
+  if destination.exists(): destination=destination.with_name(destination.stem+'-'+hashlib.sha256(f.read_bytes()).hexdigest()[:8]+destination.suffix)
+  shutil.move(str(f),str(destination))
  print(json.dumps({'processed':len(out),'outputs':out},ensure_ascii=False))
 def graph():
  cfg=load(); files=[p for p in (ROOT/'04-Research').rglob('*.md') if not p.name.endswith(' Index.md')]; counts={}

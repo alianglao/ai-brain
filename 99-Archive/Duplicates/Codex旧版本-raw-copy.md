@@ -1,16 +1,3 @@
----
-title: "Codex这4个设置，能砍掉80%无效token浪费"
-source: "https://www.xiaohongshu.com/explore/6a86c962000000002800153f?xsec_token=ABkc9Ujys-oPhb_jskzBBeET8iCbh8yBT6tzcLApRYKPA=&xsec_source=pc_user""
-captured: "2026-09-06"
-primary_category: "AI"
-tags: [topic/codex]
-original_sha256: "c2707568406025e667419ef20b7235be06ea4d7550a42ea583281aab3d180047"
-status: cleaned
----
-# Codex这4个设置，能砍掉80%无效token浪费
-
-## 正文
-
 
 <iframe src=""></iframe>![](https://sns-webpic-qc.xhscdn.com/202609052356/a0348ddc4eab7ada17283ebcc5269c9f/1040g0083243a8oo9ga6g5puafgojicdujhjbdqo!nd_dft_wgth_webp_3) ![](https://sns-webpic-qc.xhscdn.com/202609052356/a0348ddc4eab7ada17283ebcc5269c9f/1040g0083243a8oo9ga6g5puafgojicdujhjbdqo!nd_dft_wgth_webp_3)
 

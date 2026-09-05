@@ -1,11 +1,13 @@
 ---
 title: "Codex这4个设置，能砍掉80%无效token浪费"
-source: "https://www.xiaohongshu.com/explore/6a86c962000000002800153f?xsec_token=ABkc9Ujys-oPhb_jskzBBeET8iCbh8yBT6tzcLApRYKPA=&xsec_source=pc_user""
-captured: "2026-09-06"
-primary_category: "AI"
-tags: [topic/codex]
-original_sha256: "c2707568406025e667419ef20b7235be06ea4d7550a42ea583281aab3d180047"
-status: cleaned
+source: "https://www.xiaohongshu.com/explore/6a86c962000000002800153f?xsec_token=ABkc9Ujys-oPhb_jskzBBeET8iCbh8yBT6tzcLApRYKPA=&xsec_source=pc_user"
+author:
+  - "猫头鹰开发手记"
+published: 2026-09-05
+captured: 2026-09-05T23:56:55+08:00
+status: "inbox"
+tags:
+  - "source/web-clipper"
 ---
 # Codex这4个设置，能砍掉80%无效token浪费
 
@@ -16,5 +18,3 @@ status: cleaned
 
 实话说，现在模型已经很强了，但如果你平时感觉智商不够，那可能不是模型问题，而是你的上下文、缓存和工具配置正在拖后腿。 做下面4个设置，可以大幅减少无效token浪费，并提升长任务效率。 1、尽量吃满 prompt cache 固定不变的项目规则、AGENTS.md、开发规范、长期prompt放前面，经常变化的需求放后面。这样更容易命中缓存，减少重复计算和重复上下文token消耗。 2、长任务要及时压缩上下文 不要让日志、失败方案和旧历史一直堆在会话里。直接输入prompt： “请整理当前任务上下文，清理失效方案、重复日志和无关历史，只保留当前目标、关键决策、核心约束、当前进度、未解决问题和下一步行动，后续基于最新摘要继续执行。” 或者按照我的笔记中写的新开会话。 3、MCP 不要装一堆不用的 现在各种MCP和Skill很多，，但工具越多，上下文负担也越大。当前项目需要什么，就加载什么，别让一堆无关工具长期占着上下文。 4、保持项目配置稳定 不要频繁切模型、工作目录、工具配置和开发规则。稳定的prompt、稳定的工具链和固定项目结构，更容易持续复用缓存，也能减少 Agent 反复重新理解项目。 很多时候 Codex 不需要再变强，你只需要做的，就是别再浪费它的上下文。 赶紧去试试吧！ [#howto入门codex](https://www.xiaohongshu.com/search_result?keyword=howto%25E5%2585%25A5%25E9%2597%25A8codex&type=54&source=web_note_detail_r10) [#办公神器howto](https://www.xiaohongshu.com/search_result?keyword=%25E5%258A%259E%25E5%2585%25AC%25E7%25A5%259E%25E5%2599%25A8howto&type=54&source=web_note_detail_r10) [#codex](https://www.xiaohongshu.com/search_result?keyword=codex&type=54&source=web_note_detail_r10) [#AI工具](https://www.xiaohongshu.com/search_result?keyword=AI%25E5%25B7%25A5%25E5%2585%25B7&type=54&source=web_note_detail_r10) [#howto入门vibecoding](https://www.xiaohongshu.com/search_result?keyword=howto%25E5%2585%25A5%25E9%2597%25A8vibecoding&type=54&source=web_note_detail_r10) [#大模型](https://www.xiaohongshu.com/search_result?keyword=%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B&type=54&source=web_note_detail_r10) [#编程](https://www.xiaohongshu.com/search_result?keyword=%25E7%25BC%2596%25E7%25A8%258B&type=54&source=web_note_detail_r10)
 
-## Knowledge Graph
-- [[07-Topics/Codex Hub]]
