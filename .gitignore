@@ -1,0 +1,9 @@
+.obsidian/workspace*.json
+.obsidian/cache/
+.trash/
+.env
+.env.*
+*.key
+*.pem
+__pycache__/
+99-Archive/Originals/

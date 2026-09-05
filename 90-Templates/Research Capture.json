@@ -1,0 +1,41 @@
+{
+  "schemaVersion": "0.1.0",
+  "name": "Research Capture",
+  "behavior": "create",
+  "noteNameFormat": "{{title}}",
+  "path": "00-Inbox/Downloaded",
+  "noteContentFormat": "# {{title}}\n\n{{content}}",
+  "properties": [
+    {
+      "name": "title",
+      "value": "{{title}}",
+      "type": "text"
+    },
+    {
+      "name": "source",
+      "value": "{{url}}",
+      "type": "text"
+    },
+    {
+      "name": "author",
+      "value": "{{author}}",
+      "type": "text"
+    },
+    {
+      "name": "published",
+      "value": "{{published}}",
+      "type": "date"
+    },
+    {
+      "name": "captured",
+      "value": "{{date}}",
+      "type": "date"
+    },
+    {
+      "name": "status",
+      "value": "inbox",
+      "type": "text"
+    }
+  ],
+  "triggers": []
+}
