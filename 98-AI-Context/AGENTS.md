@@ -8,3 +8,5 @@
 每篇研究笔记一个主分类，可有多个 topic 标签和 Hub 链接。分类不明留待审核。
 新项目使用 tools/kb.py project 项目名；结束工作检查状态和记忆是否需要更新。
 
+
+长期约定：维护 ai-brain 时，优先检查 88-Skills/00-Skill Index.md 与 88-Skills/Skills/，把它们当作 Skills 的主索引与教程区。
