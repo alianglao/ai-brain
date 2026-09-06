@@ -1,4 +1,4 @@
-开始任务先读取 98-AI-Context/AI Operating Context.md、97-AI-Memory/User Preferences.md 和相关 Project-Status.md。
+开始任务先轻量读取 98-AI-Context/AI Operating Context.md、97-AI-Memory/User Preferences.md 和相关 Project-Status.md。
 仅保存长期有效的偏好、经验证经验、决策及可复用工作流；不要保存聊天记录、凭据或临时思考。
 发生项目进展时更新对应 Project-Status.md；形成决策、经验或最佳实践时更新相应 Memory，必要时同步 Context。
 记录日期、证据链接、适用范围和验证状态；不把推测当事实。冲突保留历史并标记取代关系。

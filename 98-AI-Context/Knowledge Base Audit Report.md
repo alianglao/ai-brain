@@ -1,12 +1,12 @@
 # Knowledge Base Audit
 
-生成时间：2026-09-06T00:14
+生成时间：2026-09-06T00:30
 
-- Markdown：76
+- Markdown：77
 - 重复组：2
 - 异常文件名：0
 - 空目录：3
-- 孤立笔记：32
+- 孤立笔记：33
 - 断链：1
 
 ## 重复内容
@@ -22,6 +22,7 @@
 - 00-Inbox\Cleaned
 
 ## 孤立文件
+- 程序首尾.md
 - 89-Prompts\Prompt Library Guide.md
 - 90-Templates\Daily Note Template.md
 - 90-Templates\Project Template.md
