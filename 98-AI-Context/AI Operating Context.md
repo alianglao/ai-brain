@@ -13,3 +13,5 @@
 2026-09-07 已验证的数学建模工作流：CUMCM 论文知识库位于 `C:\Users\18928\Desktop\数学建模研究室\Research\cumcm-excellent-papers`，采用 `Sources\Papers` 保存来源、`Knowledge` 保存方法卡的分层结构。Paper Miner 的全局写作记忆位于 `C:\Users\18928\.codex\skills\ml-paper-writing\references\knowledge\paper-miner-writing-memory.md`，已完成 2020 C、2021 C、2023 A 三篇完整 PDF 的写作模式提取。适用范围是当前数学建模工作区和正式 CUMCM 论文辅助写作；经验必须在当前赛题数据上重新验证。
 
 2026-09-08 已验证的可复用建模环境：工作区根目录 `C:\Users\18928\Desktop\数学建模研究室\python-dependencies-py312-win64` 保存 Python 3.12 Windows x64 的数据分析与绘图库依赖，`python-wheels-cache` 保存 matplotlib wheel 安装包。2025C 项目脚本已在该环境下成功生成中文图表；复用到其他赛题前需核对 Python 版本、操作系统、依赖版本和路径，不把平台相关 wheel 视为跨系统通用环境。适用范围：本机数学建模项目。
+
+2026-09-08 已确认的数学建模终审经验：工程基线 PASS 只表示输入、脚本、输出和复跑链路通过，不能升级为竞赛论文 PASS。竞赛论文还必须逐小问核对目标函数与风险、变量覆盖、重复测量与删失、标签来源与标签—特征循环、折内预处理、显著性检验、模型方向一致性、稀疏组和不确定性。题目要求“最优/最小风险”时不得用无论证的固定通过率阈值替代显式风险函数；发现可修问题必须执行“定位—修正—重跑—复查”。证据来源：`C:\Users\18928\Desktop\数学建模研究室\projects\2025-CUMCM-C\notes\教授终审问题清单.md`；适用范围：CUMCM 及同类数学建模竞赛，状态：已由 2025C 材料和独立复核结果验证。
