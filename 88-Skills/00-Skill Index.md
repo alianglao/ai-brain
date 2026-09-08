@@ -1,7 +1,7 @@
 # 88-Skills Index
 
-更新时间：2026-09-06
-已识别 Skill 数量：45
+更新时间：2026-09-08
+已识别 Skill 数量：46
 
 ## 用法
 - 新增 Skill 时，在 `Skills/` 下新增一篇同名教程，并同步更新本页清单。
@@ -47,6 +47,7 @@
 - [skill-development](Skills/skill-development.md) | 类别：development | 创建或重构 Codex 技能。
 - [skill-improver](Skills/skill-improver.md) | 类别：development | 按建议改进现有技能。
 - [skill-quality-reviewer](Skills/skill-quality-reviewer.md) | 类别：development | 评估技能质量并给出改进点。
+- [supervisor](Skills/supervisor.md) | 类别：core | 可插拔监工：按模式检查任务偏离、验收标准、错误、风险和数学建模质量。
 - [ui-ux-pro-max](Skills/ui-ux-pro-max.md) | 类别：writing | 做高质量 UI/UX 设计与审查。
 - [uv-package-manager](Skills/uv-package-manager.md) | 类别：development | 管理 uv Python 包和环境。
 - [verification-loop](Skills/verification-loop.md) | 类别：core | 执行构建、测试、静态检查与回读验证。
