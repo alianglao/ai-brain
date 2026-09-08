@@ -1,12 +1,12 @@
 # Knowledge Base Audit
 
-生成时间：2026-09-06T23:02
+生成时间：2026-09-08T19:25
 
-- Markdown：80
+- Markdown：132
 - 重复组：3
 - 异常文件名：0
 - 空目录：3
-- 孤立笔记：34
+- 孤立笔记：85
 - 断链：3
 
 ## 重复内容
@@ -24,6 +24,7 @@
 
 ## 孤立文件
 - 程序首尾.md
+- 88-Skills\00-Skill Index.md
 - 89-Prompts\Prompt Library Guide.md
 - 90-Templates\Daily Note Template.md
 - 90-Templates\Project Template.md
@@ -52,6 +53,56 @@
 - 98-AI-Context\Web Clipper Guide.md
 - 98-AI-Context\Writing Style.md
 - Clippings\Build software better, together.md
+- 88-Skills\Skills\agent-identifier.md
+- 88-Skills\Skills\architecture-design.md
+- 88-Skills\Skills\bug-detective.md
+- 88-Skills\Skills\citation-verification.md
+- 88-Skills\Skills\code-review-excellence.md
+- 88-Skills\Skills\codex-hook-emulation.md
+- 88-Skills\Skills\daily-coding.md
+- 88-Skills\Skills\daily-paper-generator.md
+- 88-Skills\Skills\defuddle.md
+- 88-Skills\Skills\doc-coauthoring.md
+- 88-Skills\Skills\expression-skill.md
+- 88-Skills\Skills\frontend-design.md
+- 88-Skills\Skills\git-commit.md
+- 88-Skills\Skills\git-push.md
+- 88-Skills\Skills\git-workflow.md
+- 88-Skills\Skills\kaggle-learner.md
+- 88-Skills\Skills\latex-conference-template-organizer.md
+- 88-Skills\Skills\ml-paper-writing.md
+- 88-Skills\Skills\nature-data.md
+- 88-Skills\Skills\nature-polishing.md
+- 88-Skills\Skills\nature-response.md
+- 88-Skills\Skills\nature-writing.md
+- 88-Skills\Skills\obsidian-kb-artifacts.md
+- 88-Skills\Skills\obsidian-literature-workflow.md
+- 88-Skills\Skills\obsidian-project-kb-core.md
+- 88-Skills\Skills\obsidian-source-ingestion.md
+- 88-Skills\Skills\paper-self-review.md
+- 88-Skills\Skills\planning-with-files.md
+- 88-Skills\Skills\post-acceptance.md
+- 88-Skills\Skills\publication-chart-skill.md
+- 88-Skills\Skills\research-ideation.md
+- 88-Skills\Skills\results-analysis.md
+- 88-Skills\Skills\results-report.md
+- 88-Skills\Skills\review-response.md
+- 88-Skills\Skills\session-wrap-up.md
+- 88-Skills\Skills\skill-development.md
+- 88-Skills\Skills\skill-improver.md
+- 88-Skills\Skills\skill-quality-reviewer.md
+- 88-Skills\Skills\supervisor.md
+- 88-Skills\Skills\ui-ux-pro-max.md
+- 88-Skills\Skills\uv-package-manager.md
+- 88-Skills\Skills\verification-loop.md
+- 88-Skills\Skills\web-design-reviewer.md
+- 88-Skills\Skills\webapp-testing.md
+- 88-Skills\Skills\writing-anti-ai.md
+- 88-Skills\Skills\zotero-obsidian-bridge.md
+- 88-Skills\Templates\Skill Guide Template.md
+- 88-Skills\Skills\supervisor\SKILL.md
+- 88-Skills\Skills\supervisor\references\mathematical-modeling-review.md
+- 88-Skills\Skills\supervisor\references\supervisor-reviewer-prompt.md
 - 99-Archive\Duplicates\Codex旧版本-raw-copy.md
 - 99-Archive\Originals\85\855f258b5889bafada384a627071febe49de980f3dcc0471a808a3c36e04d89c.md
 - 99-Archive\Originals\c2\c2707568406025e667419ef20b7235be06ea4d7550a42ea583281aab3d180047.md
