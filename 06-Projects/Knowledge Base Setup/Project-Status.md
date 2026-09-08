@@ -4,7 +4,7 @@
 截至 2026-09-08。
 基础建设已完成初版；CUMCM 论文知识库和 Paper Miner 写作记忆已完成一次端到端验证。
 ## 已完成事项
-环境检查、结构与规范生成；建立 `C:\Users\18928\Desktop\数学建模研究室\Research\cumcm-excellent-papers`；导入 2020 C、2021 C、2023 A 三组论文/代码/数据材料；建立 3 份来源笔记和 3 张方法卡；使用 Paper Miner 从 3 篇完整 PDF 提取写作模式并更新 `C:\Users\18928\.codex\skills\ml-paper-writing\references\knowledge\paper-miner-writing-memory.md`；新增可插拔 Supervisor Skill，包含三种模式、Reviewer prompt、数学建模审查清单、用户教程与 Skill 索引条目。
+环境检查、结构与规范生成；建立 `C:\Users\18928\Desktop\数学建模研究室\Research\cumcm-excellent-papers`；导入 2020 C、2021 C、2023 A 三组论文/代码/数据材料；建立 3 份来源笔记和 3 张方法卡；使用 Paper Miner 从 3 篇完整 PDF 提取写作模式并更新 `C:\Users\18928\.codex\skills\ml-paper-writing\references\knowledge\paper-miner-writing-memory.md`；新增并升级可插拔 Supervisor Skill，现含关闭/轻量/终审/严格四种模式、Executor/Supervisor/Reviewer/Reconciler 分工、PASS/REVISE/BLOCK 协议、返工上限、Reviewer/Reconciler 模板、数学建模审查清单、用户教程与 Skill 索引条目；已用普通 Python 与数学建模最小场景验证 REVISE → PASS。
 ## 待办事项
 GitHub 登录和外部插件仍待单独确认；用真实赛题测试论文经验检索、方法迁移和正式写作调用。
 ## 下一步
