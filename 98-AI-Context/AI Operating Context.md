@@ -11,3 +11,5 @@
 2026-09-08 已确认的数学建模比赛最小 Skill 组合：`paper-workflow-orchestrator` 负责主流程，`cumcm-taste` 负责选模审查；只有在需要严格统计/敏感性/稳健性分析时启用 `results-analysis`，只有在需要论文级图表/表格时启用 `publication-chart-skill`。`C:\Users\18928\Desktop\数学建模研究室\scientific-visualization-book` 仅作为图形结构、配色、版式和媒介适配参考，不作为独立流程控制器。该组合适用于当前数学建模工作区的比赛任务，已同步到工作区图表 SOP、建模流程对照表和 CUMCM 使用说明；未用真实赛题完成端到端验证。
 
 2026-09-07 已验证的数学建模工作流：CUMCM 论文知识库位于 `C:\Users\18928\Desktop\数学建模研究室\Research\cumcm-excellent-papers`，采用 `Sources\Papers` 保存来源、`Knowledge` 保存方法卡的分层结构。Paper Miner 的全局写作记忆位于 `C:\Users\18928\.codex\skills\ml-paper-writing\references\knowledge\paper-miner-writing-memory.md`，已完成 2020 C、2021 C、2023 A 三篇完整 PDF 的写作模式提取。适用范围是当前数学建模工作区和正式 CUMCM 论文辅助写作；经验必须在当前赛题数据上重新验证。
+
+2026-09-08 已验证的可复用建模环境：工作区根目录 `C:\Users\18928\Desktop\数学建模研究室\python-dependencies-py312-win64` 保存 Python 3.12 Windows x64 的数据分析与绘图库依赖，`python-wheels-cache` 保存 matplotlib wheel 安装包。2025C 项目脚本已在该环境下成功生成中文图表；复用到其他赛题前需核对 Python 版本、操作系统、依赖版本和路径，不把平台相关 wheel 视为跨系统通用环境。适用范围：本机数学建模项目。
