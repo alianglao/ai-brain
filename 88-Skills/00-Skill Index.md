@@ -1,7 +1,7 @@
 # 88-Skills Index
 
 更新时间：2026-09-08
-已识别 Skill 数量：46
+已识别 Skill 数量：48
 
 ## 用法
 - 新增 Skill 时，在 `Skills/` 下新增一篇同名教程，并同步更新本页清单。
@@ -10,6 +10,7 @@
 
 ## 已识别 Skills
 - [agent-identifier](Skills/agent-identifier.md) | 类别：development | 配置 Claude Code agents 元数据。
+- [academic-figure-workflow](Skills/academic-figure-workflow.md) | 类别：research | 规划、绘制和验证学术机制图、概念模型图与论文级 SVG 示意图。
 - [architecture-design](Skills/architecture-design.md) | 类别：development | 设计注册式 ML 架构。
 - [bug-detective](Skills/bug-detective.md) | 类别：development | 系统排查错误和故障。
 - [citation-verification](Skills/citation-verification.md) | 类别：research | 核验学术引用与参考文献准确性。
@@ -26,6 +27,7 @@
 - [git-workflow](Skills/git-workflow.md) | 类别：core | 管理分支、合并、提交和协作流程。
 - [kaggle-learner](Skills/kaggle-learner.md) | 类别：research | 从 Kaggle 方案中提炼可复用模式。
 - [latex-conference-template-organizer](Skills/latex-conference-template-organizer.md) | 类别：writing | 整理会议 LaTeX 模板包。
+- [mermaid-diagram](Skills/mermaid-diagram.md) | 类别：research | 绘制 Mermaid 流程图、工作流图、架构图和 ProcessOn/draw.io 导入草稿。
 - [ml-paper-writing](Skills/ml-paper-writing.md) | 类别：research | 撰写机器学习论文与相关章节。
 - [nature-data](Skills/nature-data.md) | 类别：research | 整理 Nature 风格数据可用性声明。
 - [nature-polishing](Skills/nature-polishing.md) | 类别：research | 润色为更自然的 Nature 风格英文。

@@ -15,3 +15,5 @@
 2026-09-08 已验证的可复用建模环境：工作区根目录 `C:\Users\18928\Desktop\数学建模研究室\python-dependencies-py312-win64` 保存 Python 3.12 Windows x64 的数据分析与绘图库依赖，`python-wheels-cache` 保存 matplotlib wheel 安装包。2025C 项目脚本已在该环境下成功生成中文图表；复用到其他赛题前需核对 Python 版本、操作系统、依赖版本和路径，不把平台相关 wheel 视为跨系统通用环境。适用范围：本机数学建模项目。
 
 2026-09-08 已确认的数学建模终审经验：工程基线 PASS 只表示输入、脚本、输出和复跑链路通过，不能升级为竞赛论文 PASS。竞赛论文还必须逐小问核对目标函数与风险、变量覆盖、重复测量与删失、标签来源与标签—特征循环、折内预处理、显著性检验、模型方向一致性、稀疏组和不确定性。题目要求“最优/最小风险”时不得用无论证的固定通过率阈值替代显式风险函数；发现可修问题必须执行“定位—修正—重跑—复查”。证据来源：`C:\Users\18928\Desktop\数学建模研究室\projects\2025-CUMCM-C\notes\教授终审问题清单.md`；适用范围：CUMCM 及同类数学建模竞赛，状态：已由 2025C 材料和独立复核结果验证。
+
+2026-09-09 已确认的数学建模流程图/机制图工作流：全局 Codex Skill 已安装 `mermaid-diagram`（`C:\Users\18928\.codex\skills\mermaid-diagram-skill`）和 `academic-figure-workflow`（`C:\Users\18928\.codex\skills\academic-figure-workflow`），并已复制到 `C:\Users\18928\Desktop\数学建模研究室\skills\` 便于工作区内复用。流程图、ProcessOn/draw.io 导入草稿和 Mermaid 源图优先用 `mermaid-diagram`；机制图、概念模型图和论文级 SVG 解释图优先用 `academic-figure-workflow`。已用 2025C NIPT 项目生成并更新 `projects\2025-CUMCM-C\outputs\figures\2025_c_modeling_diagram_usage.md`，证据口径绑定 2025C README、题面说明、数据账本、分析报告、最终验证报告和教授终审问题清单。状态：已安装并在真实项目图示说明中验证；不保存本次会话逐字记录。
