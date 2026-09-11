@@ -1,12 +1,12 @@
 # Knowledge Base Audit
 
-生成时间：2026-09-08T19:25
+生成时间：2026-09-11T20:57
 
-- Markdown：132
+- Markdown：135
 - 重复组：3
 - 异常文件名：0
 - 空目录：3
-- 孤立笔记：85
+- 孤立笔记：87
 - 断链：3
 
 ## 重复内容
@@ -53,6 +53,7 @@
 - 98-AI-Context\Web Clipper Guide.md
 - 98-AI-Context\Writing Style.md
 - Clippings\Build software better, together.md
+- 88-Skills\Skills\academic-figure-workflow.md
 - 88-Skills\Skills\agent-identifier.md
 - 88-Skills\Skills\architecture-design.md
 - 88-Skills\Skills\bug-detective.md
@@ -70,6 +71,7 @@
 - 88-Skills\Skills\git-workflow.md
 - 88-Skills\Skills\kaggle-learner.md
 - 88-Skills\Skills\latex-conference-template-organizer.md
+- 88-Skills\Skills\mermaid-diagram.md
 - 88-Skills\Skills\ml-paper-writing.md
 - 88-Skills\Skills\nature-data.md
 - 88-Skills\Skills\nature-polishing.md
